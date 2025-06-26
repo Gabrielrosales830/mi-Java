@@ -9,6 +9,6 @@ public static void main(String[] args) {
     System.out.println("La suma de "+num1+ "+" +num2+ "es :" + suma );
     System.out.println("La multiplicacion "+num1+"+"+ num2+ "es :"+ multiplicacion);
     System.out.println("Gabriel de Jesus Rosales lopez - 2025-0233U");
-    System.out.println("Hola maestro cristopher");
+    System.out.println("Hola desde master maestro cristopher");
 }
 }
